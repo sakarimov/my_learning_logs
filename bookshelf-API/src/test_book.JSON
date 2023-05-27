@@ -1,0 +1,10 @@
+{
+    "name": "book 1",
+    "year": 1992,
+    "author": "sulthan asyam karimov",
+    "summary": "karimov asyam sulthan",
+    "publisher": "karimov's foundation",
+    "pageCount": 150,
+    "readPage": 100,
+    "reading": true
+}
