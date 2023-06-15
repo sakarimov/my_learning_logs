@@ -1,2 +1,8 @@
 bookshelf-API-export/
 bookshelf-API.zip
+
+notes-app-back-end-plugin/.env
+notes-app-back-end-plugin/.prod.env
+
+openmusiv_v1/.env
+openmusic_v1/.prod.env
