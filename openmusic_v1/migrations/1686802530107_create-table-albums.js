@@ -1,7 +1,5 @@
 /* eslint-disable camelcase */
 
-exports.shorthands = undefined;
-
 exports.up = pgm => {
   pgm.createTable('albums', {
     id: {
@@ -13,7 +11,7 @@ exports.up = pgm => {
       notNull: true,
     },
     year: {
-      type: 'NUMERIC',
+      type: 'SMALLINT',
       notNull: true,
     },
     created_at: {
