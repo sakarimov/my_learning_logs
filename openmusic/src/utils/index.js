@@ -29,4 +29,4 @@ const mapSongToAlbum = ({
 	songs: song,
 });
 
-module.exports = {mapDBToModel, mapSongToAlbum};
+module.exports = { mapDBToModel, mapSongToAlbum };

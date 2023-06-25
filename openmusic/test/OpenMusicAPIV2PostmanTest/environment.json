@@ -4,7 +4,7 @@
 	"values": [
 		{
 			"key": "port",
-			"value": "5000",
+			"value": "8085",
 			"enabled": true
 		},
 		{
@@ -131,6 +131,11 @@
 		{
 			"key": "accessTokenTom",
 			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "NO_PROXY",
+			"value": "localhost,127.0.0.1",
 			"enabled": true
 		}
 	],
